@@ -1,0 +1,15 @@
+# binaries
+/wside
+/tests
+*.o
+*.obj
+
+# uitvoer van de IDE ("Opslaan naar bestand")
+/program.asm
+/program.ws
+/program_visible.txt
+
+# compiler-artefacten
+*.dot
+*.png
+*.svg
