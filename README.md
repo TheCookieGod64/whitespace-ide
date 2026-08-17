@@ -74,7 +74,7 @@ sudo make install   # installeert hcc + de tos-bibliotheek naar /usr/local
 ## Bouwen en draaien
 
 ```bash
-git clone <deze repo>
+git clone https://github.com/TheCookieGod64/whitespace-ide
 cd whitespace-ide
 make            # of: hcc src/ide.HC -o wside
 ./wside
