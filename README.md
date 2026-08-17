@@ -124,9 +124,6 @@ Whitespace.
 | `readc`     | lees één karakter van stdin en duw het op de stack |
 | `pick N`    | kopieer het N-de item van de stack naar de top (N=0 is `dup`) |
 
-> `out` en `outc` zijn bewust toegevoegd aan de door jou gevraagde
-> rekenkundige set — zonder output zou "run" niets laten zien.
-
 ## Projectstructuur
 
 ```
