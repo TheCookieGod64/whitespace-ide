@@ -74,7 +74,7 @@ sudo make install   # installeert hcc + de tos-bibliotheek naar /usr/local
 ## Bouwen en draaien
 
 ```bash
-git clone https://github.com/TheCookieGod64/whitespace-ide
+git clone <deze repo>
 cd whitespace-ide
 make            # of: hcc src/ide.HC -o wside
 ./wside
@@ -124,6 +124,9 @@ Whitespace.
 | `readc`     | lees één karakter van stdin en duw het op de stack |
 | `pick N`    | kopieer het N-de item van de stack naar de top (N=0 is `dup`) |
 
+> `out` en `outc` zijn bewust toegevoegd aan de door jou gevraagde
+> rekenkundige set — zonder output zou "run" niets laten zien.
+
 ## Projectstructuur
 
 ```
@@ -146,4 +149,5 @@ interpreter (rechtstreeks van de officiële specificatie): de gegenereerde
 
 ## Licentie
 
-MIT — zie [LICENSE](LICENSE).
+TheCookieGod64 Public License (CKL-1.0) — zie [LICENSE](LICENSE).
+"Work Hard, Not Smart" Edition. 🍝🕶️
