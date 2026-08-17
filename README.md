@@ -149,5 +149,5 @@ interpreter (rechtstreeks van de officiële specificatie): de gegenereerde
 
 ## Licentie
 
-TheCookieGod64 Public License (CKL-1.0) — zie [LICENSE](LICENSE).
-"Work Hard, Not Smart" Edition. 🍝🕶️
+TheCookieGod64 Public License (CKL-2.0) — zie [LICENSE](LICENSE).
+"Work Hard, Work Dumb" Edition. 🍝🕶️
